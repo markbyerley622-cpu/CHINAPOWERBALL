@@ -812,7 +812,7 @@ document.getElementById("dev-w2")?.addEventListener("click", () => updateWinner(
 document.getElementById("dev-w3")?.addEventListener("click", () => updateWinner("High Emperors"));
 
 // === SOLANA POOL TRACKER ===
-const WALLET_ADDRESS = "EGTLL4AA3ALMppRdZaY4n7SJzcPQUdoBkd6ABuhDNvjy";
+const WALLET_ADDRESS = "GzWJccWEybiKvemsDgBec3WuRP2iGQcgKnTG8aNXtFdD";
 
 // ✅ Your CORS-enabled Helius RPC endpoint
 const RPC_URL = "https://mainnet.helius-rpc.com/?api-key=88759e14-2c77-4ea4-8241-e1f479ac9218";
